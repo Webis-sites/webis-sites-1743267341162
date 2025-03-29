@@ -1,0 +1,71 @@
+{
+  "projectDir": "מכון-כושר-ביתא-1743267341162",
+  "status": {
+    "totalComponents": 9,
+    "completedComponents": 9,
+    "failedComponents": 0,
+    "progress": 100
+  },
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "completed",
+      "description": "Main hero section with headline, subheadline, and call to action button"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "completed",
+      "description": "Section highlighting the gym's experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "completed",
+      "description": "Showcase of the gym's professional services"
+    },
+    {
+      "name": "PortfolioGallery",
+      "type": "portfolio",
+      "status": "completed",
+      "description": "Gallery showcasing the gym's facilities and success stories"
+    },
+    {
+      "name": "FacilitiesSection",
+      "type": "features",
+      "status": "completed",
+      "description": "Highlights of the gym's facilities and equipment"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "completed",
+      "description": "Call-to-action section encouraging visitors to book an appointment"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "completed",
+      "description": "Contact form for inquiries and appointment requests"
+    },
+    {
+      "name": "LocationMap",
+      "type": "map",
+      "status": "completed",
+      "description": "Map showing the gym's location with contact details"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "completed",
+      "description": "Footer with essential links and copyright information"
+    }
+  ],
+  "tokenUsage": {
+    "totalInputTokens": 10486,
+    "totalOutputTokens": 19997,
+    "totalTokens": 30483,
+    "requests": 9
+  }
+}
